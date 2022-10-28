@@ -1,0 +1,31 @@
+
+INICIO DE PRUEBAS DE PILA VACIA
+Creada pila vacía... OK
+Ver tope pila vacía... OK
+Desapilar pila vacía... OK
+Apilar un elemento... OK
+
+
+INICIO DE PRUEBAS DE DOS ELEMENTOS
+Creada pila vacía... OK
+Apilar un elemento... OK
+Ver tope pila 1 elemento... OK
+|- 2 / 4 -Apilar dos elementos... OK
+Ver tope pila dos elementos... OK
+|- 1 / 2 -Desapilar un elemento de dos... OK
+Ver tope con un elemento... OK
+|- 2 / 4 -Apilar nuevamente otro elemento (NULL)... OK
+Ver tope con elemento null... OK
+|- 1 / 2 -Desapilar elemento NULL... OK
+Desapilar un elemento de uno... OK
+Ver tope vacio... OK
+Comprobar que pila esta vacía... OK
+
+
+INICIO DE PRUEBAS DE MUCHOS ELEMENTOS
+
+|- 2 / 4 -|- 4 / 8 -|- 8 / 16 -|- 16 / 32 -|- 32 / 64 -|- 64 / 128 -|- 128 / 256 -|- 256 / 512 -|- 512 / 1024 -|- 1024 / 2048 -|- 2048 / 4096 -|- 4096 / 8192 -|- 8192 / 16384 -
+
+|- 4096 / 8192 -|- 2048 / 4096 -|- 1024 / 2048 -|- 512 / 1024 -|- 256 / 512 -|- 128 / 256 -|- 64 / 128 -|- 32 / 64 -|- 16 / 32 -|- 8 / 16 -|- 4 / 8 -|- 2 / 4 -|- 1 / 2 -
+Pruebas completas con n elementos... OK
+

@@ -1,0 +1,34 @@
+
+INICIO DE PRUEBAS DE PILA VACIA
+Creada pila vacía... OK
+Ver tope pila vacía... OK
+Desapilar pila vacía... OK
+Apilar un elemento... OK
+
+
+INICIO DE PRUEBAS DE DOS ELEMENTOS
+Creada pila vacía... OK
+Apilar un elemento... OK
+Ver tope pila 1 elemento... OK
+2 / 4Apilar dos elementos... OK
+Ver tope pila dos elementos... OK
+1 / 2Desapilar un elemento de dos... OK
+Ver tope con un elemento... OK
+2 / 4Apilar nuevamente otro elemento (NULL)... OK
+Ver tope con elemento null... OK
+1 / 2Desapilar elemento NULL... OK
+0 / 1Desapilar un elemento de uno... OK
+Ver tope vacio... OK
+Comprobar que pila esta vacía... OK
+
+
+INICIO DE PRUEBAS DE MUCHOS ELEMENTOS
+
+2 / 44 / 88 / 1616 / 3232 / 6464 / 128128 / 256256 / 512512 / 10241024 / 20482048 / 40964096 / 81928192 / 16384
+
+4096 / 81922048 / 40961024 / 2048512 / 1024256 / 512128 / 25664 / 12832 / 6416 / 328 / 164 / 82 / 41 / 2
+Pruebas completas con n elementos... OK
+
+
+
+////printf("%li / %li", pila->cantidad, pila->capacidad);
